@@ -1,4 +1,5 @@
-1. Copy paste the following in a YAML file, name it grafana.yaml
+1. Install Grafana instructions
+2. Copy paste the following in a YAML file, name it grafana.yaml
 datasources:
   datasources.yaml:
     apiVersion: 1
